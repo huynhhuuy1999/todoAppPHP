@@ -1,0 +1,21 @@
+.header{
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.label-add-todo{
+    font-size: 18px;
+    margin-top: 25px;
+}
+.delete{
+    color:#007bff;
+}
+.dataTables_scrollHeadInner table{
+    margin-bottom: 0;
+}
